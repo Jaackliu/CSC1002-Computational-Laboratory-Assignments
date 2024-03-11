@@ -1,5 +1,5 @@
 # CSC1002 Computational Laboratory Python Assignments
-Codes and reports for four assignments in CSC3100 Computational Laboratory
+Codes and reports for four assignments in CSC3100 Computational Laboratory 2023 Spring.
 
 **Academic Code:**
 
